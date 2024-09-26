@@ -1,0 +1,270 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-24 20:23+0200\n"
+"PO-Revision-Date: 2024-09-24 20:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.5\n"
+
+#: .\core\views.py:30
+#, python-format
+msgid "Component %(component)s is categorized as %(category)s."
+msgstr "Składnik %(component)s jest skategoryzowany jako %(category)s."
+
+#: .\core\views.py:35
+#, python-format
+msgid "Component %(component)s not found."
+msgstr "Nie znaleziono składnika %(component)s."
+
+#: .\core\views.py:37
+msgid "Invalid component format."
+msgstr "Nieprawidłowy format komponentu."
+
+#: .\core\views.py:53
+#, python-format
+msgid "Message from %(name)s"
+msgstr "Wiadomość od %(name)s"
+
+#: .\core\views.py:58
+msgid "Your message has been sent successfully!"
+msgstr "Twoja wiadomość została pomyślnie wysłana!"
+
+#: .\core\views.py:60
+msgid "An error occurred while sending your message. Please try again later."
+msgstr "Wystąpił błąd podczas wysyłania wiadomości. Spróbuj ponownie później."
+
+#: .\templates\check_component.html:21 .\templates\contact_us.html:20
+msgid "Home"
+msgstr "Główna"
+
+#: .\templates\check_component.html:22 .\templates\contact_us.html:27
+#: .\templates\homepage.html:23
+msgid "Contact Us"
+msgstr "Skontaktuj się z nami"
+
+#: .\templates\check_component.html:27
+msgid "Important Information"
+msgstr "Ważne informacje"
+
+#: .\templates\check_component.html:33
+msgid "Information"
+msgstr "Informacje"
+
+#: .\templates\check_component.html:35
+msgid "Regional Differences"
+msgstr "Różnice regionalne"
+
+#: .\templates\check_component.html:36
+msgid ""
+"While the additives are generally listed correctly as \"dangerous\" or "
+"\"safe,\" the approval status can differ by country. Some additives banned "
+"in the U.S. (e.g., E123, E952) might still be allowed in the EU and vice "
+"versa."
+msgstr ""
+"Podczas gdy dodatki są zazwyczaj poprawnie wymienione jako „niebezpieczne” "
+"lub „bezpieczne”, status zatwierdzenia może się różnić w zależności od "
+"kraju. Niektóre dodatki zakazane w USA (np. E123, E952) mogą być nadal "
+"dozwolone w UE i odwrotnie."
+
+#: .\templates\check_component.html:39
+msgid "Long-Term Effects:"
+msgstr "Efekty długoterminowe:"
+
+#: .\templates\check_component.html:40
+msgid ""
+"Some additives (e.g., E951 Aspartame) are listed under \"Potential Risk\" "
+"due to controversies regarding their long-term effects."
+msgstr ""
+"Niektóre dodatki (np. E951 Aspartam) są wymienione jako „Potencjalne ryzyko” "
+"ze względu na kontrowersje dotyczące ich długoterminowych skutków."
+
+#: .\templates\check_component.html:46 .\templates\contact_us.html:21
+msgid "Check E-Component"
+msgstr "Sprawdź komponent E"
+
+#: .\templates\check_component.html:47
+msgid "Enter an E-number to check whether it's safe or dangerous."
+msgstr ""
+"Wprowadź numer E, aby sprawdzić, czy jest on bezpieczny czy niebezpieczny."
+
+#: .\templates\check_component.html:52
+msgid "Check"
+msgstr "Sprawdź"
+
+#: .\templates\check_component.html:59
+msgid "Component Name:"
+msgstr "Nazwa komponentu:"
+
+#: .\templates\check_component.html:60
+msgid "Purpose:"
+msgstr "Cel:"
+
+#: .\templates\check_component.html:61
+msgid "Safety Information:"
+msgstr "Informacje dotyczące bezpieczeństwa:"
+
+#: .\templates\check_component.html:68 .\templates\contact_us.html:57
+#: .\templates\homepage.html:75
+msgid "Dangerous Food Components"
+msgstr "Niebezpieczne składniki żywności"
+
+#: .\templates\check_component.html:68 .\templates\contact_us.html:57
+#: .\templates\homepage.html:75
+msgid "All rights reserved."
+msgstr "Wszelkie prawa zastrzeżone."
+
+#: .\templates\contact_us.html:28
+msgid ""
+"If you have any questions or concerns, feel free to reach out to us using "
+"the form below."
+msgstr ""
+"Jeśli masz jakiekolwiek pytania lub wątpliwości, skontaktuj się z nami za "
+"pomocą poniższego formularza."
+
+#: .\templates\contact_us.html:42
+msgid "Your Name"
+msgstr "Imię i nazwisko"
+
+#: .\templates\contact_us.html:43
+msgid "Your Email"
+msgstr "Twój adres e-mail"
+
+#: .\templates\contact_us.html:44
+msgid "Your Message"
+msgstr "Twoja wiadomość"
+
+#: .\templates\contact_us.html:45
+msgid "Send Message"
+msgstr "Wyślij wiadomość"
+
+#: .\templates\contact_us.html:49
+msgid "Or type on email below"
+msgstr "Lub wpisz e-mail poniżej"
+
+#: .\templates\contact_us.html:50
+msgid "Email:"
+msgstr "E-mail:"
+
+#: .\templates\contact_us.html:51
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: .\templates\homepage.html:21
+msgid "Dangerous Components"
+msgstr "Niebezpieczne komponenty"
+
+#: .\templates\homepage.html:22
+msgid "Health Tips"
+msgstr "Porady zdrowotne"
+
+#: .\templates\homepage.html:29
+msgid "Be Aware of Dangerous Food Components"
+msgstr "Uważaj na niebezpieczne składniki żywności"
+
+#: .\templates\homepage.html:30
+msgid ""
+"Understand the harmful additives and chemicals present in everyday foods and "
+"how to avoid them."
+msgstr ""
+"Zrozumienie szkodliwych dodatków i substancji chemicznych obecnych w "
+"codziennej żywności oraz sposobów ich unikania."
+
+#: .\templates\homepage.html:32
+msgid "Check E-Components"
+msgstr "Sprawdź komponenty E"
+
+#: .\templates\homepage.html:36
+msgid "Top Harmful Food Additives & Chemicals"
+msgstr "Najbardziej szkodliwe dodatki do żywności i chemikalia"
+
+#: .\templates\homepage.html:40
+msgid "Aspartame"
+msgstr "Aspartam"
+
+#: .\templates\homepage.html:41
+msgid ""
+"Aspartame is an artificial sweetener that has been linked to headaches, "
+"dizziness, and potential cancer risks."
+msgstr ""
+"Aspartam to sztuczny słodzik, który jest powiązany z bólami głowy, zawrotami "
+"głowy i potencjalnym ryzykiem raka."
+
+#: .\templates\homepage.html:45
+msgid "Monosodium Glutamate (MSG)"
+msgstr "Glutaminian sodu (MSG)"
+
+#: .\templates\homepage.html:46
+msgid ""
+"MSG is commonly found in processed foods and can trigger allergic reactions, "
+"headaches, and nausea in sensitive individuals."
+msgstr ""
+"MSG jest powszechnie spotykany w przetworzonej żywności i może wywoływać "
+"reakcje alergiczne, bóle głowy i nudności u osób wrażliwych."
+
+#: .\templates\homepage.html:50
+msgid "Trans Fats"
+msgstr "Tłuszcze trans"
+
+#: .\templates\homepage.html:51
+msgid ""
+"Trans fats raise bad cholesterol levels and increase the risk of heart "
+"disease, stroke, and diabetes."
+msgstr ""
+"Tłuszcze trans podnoszą poziom złego cholesterolu i zwiększają ryzyko chorób "
+"serca, udaru mózgu i cukrzycy."
+
+#: .\templates\homepage.html:57
+msgid "Health Tips to Avoid Harmful Food Additives"
+msgstr ""
+"Wskazówki zdrowotne dotyczące unikania szkodliwych dodatków do żywności"
+
+#: .\templates\homepage.html:60
+msgid "Read Food Labels"
+msgstr "Czytaj etykiety żywności"
+
+#: .\templates\homepage.html:61
+msgid ""
+"Always check the ingredients list on packaged foods to avoid harmful "
+"chemicals like preservatives and artificial sweeteners."
+msgstr ""
+"Zawsze sprawdzaj listę składników na pakowanej żywności, aby uniknąć "
+"szkodliwych substancji chemicznych, takich jak konserwanty i sztuczne "
+"słodziki."
+
+#: .\templates\homepage.html:64
+msgid "Eat Fresh and Whole Foods"
+msgstr "Jedz świeżą i pełnowartościową żywność"
+
+#: .\templates\homepage.html:65
+msgid ""
+"Fresh fruits, vegetables, and whole grains are free from harmful additives "
+"and provide essential nutrients."
+msgstr ""
+"Świeże owoce, warzywa i produkty pełnoziarniste są wolne od szkodliwych "
+"dodatków i dostarczają niezbędnych składników odżywczych."
+
+#: .\templates\homepage.html:68
+msgid "Limit Processed Foods"
+msgstr "Ogranicz przetworzoną żywność"
+
+#: .\templates\homepage.html:69
+msgid ""
+"Minimize your consumption of highly processed foods like frozen meals, "
+"chips, and sugary drinks, which often contain harmful additives."
+msgstr ""
+"Zminimalizuj spożycie wysoko przetworzonej żywności, takiej jak mrożone "
+"posiłki, chipsy i słodkie napoje, które często zawierają szkodliwe dodatki."

@@ -1,0 +1,83 @@
+{% load static %}
+{% load i18n %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dangerous Food Components</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+    <script src="{% static 'js/script.js' %}" defer></script>
+</head>
+<body>
+<header>
+    <div class="logo-container">
+        <img src="{% static 'images/logo.png' %}" alt="Food Safety Logo" class="logo">
+        <span class="site-name">EComponentCheck</span>
+        <div class="flags">
+            <a href="/en/"><img src="{% static 'images/flags/en.png' %}" alt="English" class="flag"></a>
+            <a href="/pl/"><img src="{% static 'images/flags/pl.png' %}" alt="Polish" class="flag"></a>
+            <a href="/de/"><img src="{% static 'images/flags/de.png' %}" alt="German" class="flag"></a>
+            <a href="/uk/"><img src="{% static 'images/flags/uk.png' %}" alt="Ukrainian" class="flag"></a>
+        </div>
+    </div>
+    <nav>
+        <ul>
+            <li><a href="#components">{% trans 'Dangerous Components' %}</a></li>
+            <li><a href="#health-tips">{% trans 'Health Tips' %}</a></li>
+            <li><a href="{% url 'contact_us' %}">{% trans 'Contact Us' %}</a></li>
+        </ul>
+    </nav>
+</header>
+
+<section id="hero">
+    <h1>{% trans 'Be Aware of Dangerous Food Components' %}</h1>
+    <p>{% trans 'Understand the harmful additives and chemicals present in everyday foods and how to avoid them.' %}</p>
+    <a href="{% url 'check_component' %}" class="btn">{% trans 'Check E-Components' %}</a>
+</section>
+
+<section id="components">
+    <h2>{% trans 'Top Harmful Food Additives & Chemicals' %}</h2>
+    <div class="component-grid">
+        <div class="component-card">
+            <img src="{% static 'images/aspartame.jpg' %}" alt="Aspartame">
+            <h3>{% trans 'Aspartame' %}</h3>
+            <p>{% trans 'Aspartame is an artificial sweetener that has been linked to headaches, dizziness, and potential cancer risks.' %}</p>
+        </div>
+        <div class="component-card">
+            <img src="{% static 'images/msg.jpg' %}" alt="MSG">
+            <h3>{% trans 'Monosodium Glutamate (MSG)' %}</h3>
+            <p>{% trans 'MSG is commonly found in processed foods and can trigger allergic reactions, headaches, and nausea in sensitive individuals.' %}</p>
+        </div>
+        <div class="component-card">
+            <img src="{% static 'images/trans-fats.jpg' %}" alt="Trans Fats">
+            <h3>{% trans 'Trans Fats' %}</h3>
+            <p>{% trans 'Trans fats raise bad cholesterol levels and increase the risk of heart disease, stroke, and diabetes.' %}</p>
+        </div>
+    </div>
+</section>
+
+<section id="health-tips">
+    <h2>{% trans 'Health Tips to Avoid Harmful Food Additives' %}</h2>
+    <div class="tips">
+        <div class="tip">
+            <h3>{% trans 'Read Food Labels' %}</h3>
+            <p>{% trans 'Always check the ingredients list on packaged foods to avoid harmful chemicals like preservatives and artificial sweeteners.' %}</p>
+        </div>
+        <div class="tip">
+            <h3>{% trans 'Eat Fresh and Whole Foods' %}</h3>
+            <p>{% trans 'Fresh fruits, vegetables, and whole grains are free from harmful additives and provide essential nutrients.' %}</p>
+        </div>
+        <div class="tip">
+            <h3>{% trans 'Limit Processed Foods' %}</h3>
+            <p>{% trans 'Minimize your consumption of highly processed foods like frozen meals, chips, and sugary drinks, which often contain harmful additives.' %}</p>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <p>2024 {% trans 'EComponentCheck' %}.</p>
+</footer>
+</body>
+</html>

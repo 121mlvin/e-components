@@ -1,0 +1,71 @@
+{% load static %}
+{% load i18n %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Check E-Component</title>
+    <link rel="stylesheet" href="{% static 'css/styles_check.css' %}">
+    <script src="{% static 'js/script_check.js' %}" defer></script>
+</head>
+<body>
+<div class="bg"></div>
+<header>
+    <div class="logo-container">
+        <img src="{% static 'images/logo.png' %}" alt="Food Safety Logo" class="logo">
+        <span class="site-name">EComponentCheck</span>
+    </div>
+    <nav>
+        <ul>
+            <li><a href="{% url 'homepage' %}">{% trans 'Home' %}</a></li>
+            <li><a href="{% url 'contact_us' %}">{% trans 'Contact Us' %}</a></li>
+        </ul>
+    </nav>
+</header>
+
+<button id="infoButton">{% trans 'Important Information' %}</button>
+
+<!-- The Modal -->
+<div id="infoModal" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h3>{% trans 'Information' %}</h3>
+        <p>
+            <strong>{% trans 'Regional Differences' %}:</strong>
+            {% trans 'While the additives are generally listed correctly as "dangerous" or "safe," the approval status can differ by country. Some additives banned in the U.S. (e.g., E123, E952) might still be allowed in the EU and vice versa.' %}
+        </p>
+        <p>
+            <strong>{% trans 'Long-Term Effects:' %}</strong>
+            {% trans 'Some additives (e.g., E951 Aspartame) are listed under "Potential Risk" due to controversies regarding their long-term effects.' %}
+        </p>
+    </div>
+</div>
+
+<section id="checker">
+    <h1>{% trans 'Check E-Component' %}</h1>
+    <p>{% trans "Enter an E-number to check whether it's safe or dangerous." %}</p>
+
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">{% trans 'Check' %}</button>
+    </form>
+
+    {% if result %}
+        <h2 class="{% if details.category in 'Dangerous Небезпечний Niebezpieczny Gefährlich' %}danger{% elif details.category in 'Potential Risk Потенційний ризик Potencjalne ryzyko Potenzielles Risiko' %}risk{% else %}safe{% endif %}">{{ result }}</h2>
+    {% if details %}
+    <div class="result-details">
+        <p><strong>{% trans 'Component Name:' %}</strong> {{ details.name }}</p>
+        <p><strong>{% trans 'Purpose:' %}</strong> {{ details.purpose }}</p>
+        <p><strong>{% trans 'Safety Information:' %}</strong> {{ details.safety }}</p>
+    </div>
+    {% endif %}
+    {% endif %}
+</section>
+
+<footer>
+    <p>2024 {% trans 'EComponentCheck' %}.</p>
+</footer>
+</body>
+</html>
