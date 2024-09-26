@@ -1,0 +1,186 @@
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            position: relative;
+        }
+
+        .bg {
+            background-image: url('healthy-food-bg.png');
+            background-size: cover;
+            background-position: center;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            filter: blur(8px);
+            z-index: -1;
+        }
+
+        #checker, footer {
+            position: relative;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 5px;
+            background-color: #3c3c3c;
+            color: #fff;
+        }
+
+        .logo-container {
+            display: flex;
+            align-items: center;
+        }
+
+        .logo {
+            width: 80px;
+            margin-right: 10px;
+        }
+
+        .site-name {
+            font-size: 20px;
+            font-weight: bold;
+            color: #fff;
+            line-height: 1;
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+            gap: 20px;
+        }
+
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 18px;
+            padding: 10px 20px;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        nav ul li a:hover {
+            background-color: #218838;
+        }
+
+
+        #contact {
+            max-width: 800px;
+            margin: 50px auto;
+            background-color: #fff;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        #contact h1 {
+            font-size: 36px;
+            margin-bottom: 20px;
+            color: #3c3c3c;
+            text-align: center;
+        }
+
+        #contact p {
+            font-size: 18px;
+            margin-bottom: 30px;
+            color: #555;
+            text-align: center;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+
+        form input, form textarea, form button {
+            width: 100%;
+            padding: 15px;
+            font-size: 16px;
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        form textarea {
+            height: 150px;
+            resize: none;
+        }
+
+        form button {
+            background-color: #28a745;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        form button:hover {
+            background-color: #218838;
+        }
+
+
+        .contact-info {
+            margin-top: 30px;
+        }
+
+        .contact-info p {
+            margin-bottom: 10px;
+            font-size: 18px;
+            color: #555;
+        }
+
+        .contact-info strong {
+            color: #333;
+        }
+
+        .messages {
+            margin: 20px 0;
+            padding: 15px 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 16px;
+            font-weight: 500;
+        }
+
+
+        .messages i {
+            margin-right: 15px;
+        }
+
+
+        .success i::before {
+            content: "\2713";
+            color: #28a745;
+            font-size: 20px;
+        }
+
+
+        .error i::before {
+            content: "\2716";
+            color: #dc3545;
+            font-size: 20px;
+        }
+
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #3c3c3c;
+            color: #fff;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }

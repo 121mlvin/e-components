@@ -1,0 +1,560 @@
+{
+  "E100": {
+    "name": "Curcumin",
+    "purpose": "Natural color (yellow).",
+    "safety": "Considered safe. Derived from turmeric.",
+    "category": "Generally Safe"
+  },
+  "E101": {
+    "name": "Riboflavin",
+    "purpose": "Natural color (yellow).",
+    "safety": "Considered safe, essential vitamin.",
+    "category": "Generally Safe"
+  },
+  "E102": {
+    "name": "Tartrazine",
+    "purpose": "Synthetic dye (yellow).",
+    "safety": "Linked to hyperactivity and allergic reactions in sensitive individuals.",
+    "category": "Potential Risk"
+  },
+  "E110": {
+    "name": "Sunset Yellow FCF",
+    "purpose": "Synthetic dye (orange).",
+    "safety": "Linked to hyperactivity and allergies in some individuals.",
+    "category": "Potential Risk"
+  },
+  "E120": {
+    "name": "Cochineal",
+    "purpose": "Natural dye (red), derived from insects.",
+    "safety": "Considered safe, though allergic reactions possible in sensitive individuals.",
+    "category": "Generally Safe"
+  },
+  "E122": {
+    "name": "Carmoisine",
+    "purpose": "Synthetic dye (red).",
+    "safety": "Linked to allergic reactions in sensitive individuals.",
+    "category": "Potential Risk"
+  },
+  "E123": {
+    "name": "Amaranth",
+    "purpose": "Synthetic dye (red).",
+    "safety": "Banned in the U.S. due to cancer risk concerns. Still allowed in small quantities in the EU.",
+    "category": "Dangerous"
+  },
+  "E124": {
+    "name": "Ponceau 4R",
+    "purpose": "Synthetic dye (red).",
+    "safety": "Linked to hyperactivity in children and allergic reactions. Banned in some countries, but allowed in the EU in restricted amounts.",
+    "category": "Dangerous"
+  },
+  "E127": {
+    "name": "Erythrosine",
+    "purpose": "Synthetic dye (red).",
+    "safety": "Banned in some countries, linked to potential thyroid issues.",
+    "category": "Dangerous"
+  },
+  "E128": {
+    "name": "Red 2G",
+    "purpose": "Synthetic dye (red).",
+    "safety": "Banned in the EU due to potential carcinogenic effects.",
+    "category": "Dangerous"
+  },
+  "E129": {
+    "name": "Allura Red AC",
+    "purpose": "Synthetic dye (red).",
+    "safety": "Linked to hyperactivity in some children.",
+    "category": "Potential Risk"
+  },
+  "E130": {
+    "name": "Lactoflavin",
+    "purpose": "Natural color (yellow).",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E131": {
+    "name": "Patent Blue V",
+    "purpose": "Synthetic dye (blue).",
+    "safety": "Considered safe, though may cause allergic reactions in some.",
+    "category": "Generally Safe"
+  },
+  "E132": {
+    "name": "Indigo Carmine",
+    "purpose": "Synthetic dye (blue).",
+    "safety": "Considered safe, though may cause allergic reactions in some.",
+    "category": "Generally Safe"
+  },
+  "E133": {
+    "name": "Brilliant Blue FCF",
+    "purpose": "Synthetic dye (blue).",
+    "safety": "Considered safe, though may cause allergic reactions in some.",
+    "category": "Generally Safe"
+  },
+  "E140": {
+    "name": "Chlorophyll",
+    "purpose": "Natural color (green).",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E141": {
+    "name": "Copper Complexes of Chlorophylls",
+    "purpose": "Natural color (green).",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E150": {
+    "name": "Caramel Color",
+    "purpose": "Coloring agent.",
+    "safety": "Generally recognized as safe, though some concerns over 4-MEI.",
+    "category": "Generally Safe"
+  },
+  "E151": {
+    "name": "Black PN",
+    "purpose": "Synthetic dye (black).",
+    "safety": "Banned in some countries due to safety concerns.",
+    "category": "Dangerous"
+  },
+  "E160": {
+    "name": "Carotenoids",
+    "purpose": "Natural color (various colors).",
+    "safety": "Generally considered safe.",
+    "category": "Generally Safe"
+  },
+  "E161": {
+    "name": "Lutein",
+    "purpose": "Natural color (yellow).",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E162": {
+    "name": "Beetroot Red",
+    "purpose": "Natural color (red).",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E170": {
+    "name": "Calcium Carbonate",
+    "purpose": "Coloring agent, acidity regulator.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E171": {
+    "name": "Titanium Dioxide",
+    "purpose": "Coloring agent.",
+    "safety": "Considered safe, though concerns over inhalation as a powder.",
+    "category": "Generally Safe"
+  },
+  "E172": {
+    "name": "Iron Oxides and Hydroxides",
+    "purpose": "Coloring agents.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E173": {
+    "name": "Aluminum",
+    "purpose": "Coloring agent.",
+    "safety": "Considered safe in small amounts, but concerns over long-term exposure.",
+    "category": "Potential Risk"
+  },
+  "E200": {
+    "name": "Sorbic Acid",
+    "purpose": "Preservative.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E202": {
+    "name": "Potassium Sorbate",
+    "purpose": "Preservative.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E210": {
+    "name": "Benzoic Acid",
+    "purpose": "Preservative.",
+    "safety": "Considered safe, though can cause allergic reactions in sensitive individuals.",
+    "category": "Generally Safe"
+  },
+  "E211": {
+    "name": "Sodium Benzoate",
+    "purpose": "Preservative.",
+    "safety": "Potential to form benzene, a carcinogen, when combined with vitamin C. Safe in limited amounts.",
+    "category": "Potential Risk"
+  },
+  "E212": {
+    "name": "Potassium Benzoate",
+    "purpose": "Preservative.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E213": {
+    "name": "Calcium Benzoate",
+    "purpose": "Preservative.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E220": {
+    "name": "Sulfur Dioxide",
+    "purpose": "Preservative.",
+    "safety": "Can cause allergic reactions and respiratory issues in sensitive individuals.",
+    "category": "Potential Risk"
+  },
+  "E221": {
+    "name": "Sodium Sulfite",
+    "purpose": "Preservative.",
+    "safety": "Can cause allergic reactions in sensitive individuals.",
+    "category": "Potential Risk"
+  },
+  "E250": {
+    "name": "Sodium Nitrite",
+    "purpose": "Preservative, color fixative in meats.",
+    "safety": "Linked to cancer when consumed in high amounts.",
+    "category": "Dangerous"
+  },
+  "E251": {
+    "name": "Sodium Nitrate",
+    "purpose": "Preservative.",
+    "safety": "Considered safe in limited amounts, though concerns over potential carcinogenic effects.",
+    "category": "Potential Risk"
+  },
+  "E300": {
+    "name": "Ascorbic Acid (Vitamin C)",
+    "purpose": "Antioxidant.",
+    "safety": "Considered very safe and essential for health.",
+    "category": "Generally Safe"
+  },
+  "E301": {
+    "name": "Sodium Ascorbate",
+    "purpose": "Antioxidant.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E302": {
+    "name": "Calcium Ascorbate",
+    "purpose": "Antioxidant.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E306": {
+    "name": "Tocopherols (Vitamin E)",
+    "purpose": "Antioxidant.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E307": {
+    "name": "Alpha-Tocopherol",
+    "purpose": "Antioxidant.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E320": {
+    "name": "Butylated Hydroxyanisole (BHA)",
+    "purpose": "Antioxidant, preservative.",
+    "safety": "Some studies suggest potential cancer risk at very high levels of consumption, though generally considered safe in small amounts.",
+    "category": "Generally Safe"
+  },
+  "E321": {
+    "name": "Butylated Hydroxytoluene (BHT)",
+    "purpose": "Antioxidant.",
+    "safety": "Some studies suggest potential cancer risk, though generally considered safe in small amounts.",
+    "category": "Potential Risk"
+  },
+  "E330": {
+    "name": "Citric Acid",
+    "purpose": "Acidity regulator.",
+    "safety": "Safe in normal amounts, but may cause digestive issues in sensitive individuals.",
+    "category": "Generally Safe"
+  },
+  "E331": {
+    "name": "Sodium Citrate",
+    "purpose": "Acidity regulator.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E332": {
+    "name": "Potassium Citrate",
+    "purpose": "Acidity regulator.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E333": {
+    "name": "Calcium Citrate",
+    "purpose": "Acidity regulator.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E338": {
+    "name": "Phosphoric Acid",
+    "purpose": "Acidity regulator.",
+    "safety": "Generally considered safe.",
+    "category": "Generally Safe"
+  },
+  "E339": {
+    "name": "Sodium Phosphates",
+    "purpose": "Acidity regulator.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E340": {
+    "name": "Potassium Phosphates",
+    "purpose": "Acidity regulator.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E341": {
+    "name": "Calcium Phosphates",
+    "purpose": "Acidity regulator.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E420": {
+    "name": "Sorbitol",
+    "purpose": "Sweetener, humectant.",
+    "safety": "Considered safe, though excessive consumption can cause digestive issues.",
+    "category": "Generally Safe"
+  },
+  "E421": {
+    "name": "Mannitol",
+    "purpose": "Sweetener, humectant.",
+    "safety": "Considered safe, though excessive consumption can cause digestive issues.",
+    "category": "Generally Safe"
+  },
+  "E422": {
+    "name": "Glycerol",
+    "purpose": "Humectant, sweetener.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E431": {
+    "name": "Sodium Stearoyl Lactylate",
+    "purpose": "Emulsifier.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E440": {
+    "name": "Pectin",
+    "purpose": "Thickener, gelling agent.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E471": {
+    "name": "Mono- and Diglycerides of Fatty Acids",
+    "purpose": "Emulsifier.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E472": {
+    "name": "Esters of Fatty Acids",
+    "purpose": "Emulsifier.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E473": {
+    "name": "Sucrose Esters of Fatty Acids",
+    "purpose": "Emulsifier.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E474": {
+    "name": "Sorbitan Esters",
+    "purpose": "Emulsifier.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E475": {
+    "name": "Polyglycerol Esters",
+    "purpose": "Emulsifier.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E476": {
+    "name": "Polyglycerol Polyricinoleate",
+    "purpose": "Emulsifier.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E477": {
+    "name": "Propylene Glycol Esters",
+    "purpose": "Emulsifier.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E481": {
+    "name": "Sodium Stearoyl Lactylate",
+    "purpose": "Emulsifier.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E482": {
+    "name": "Mono- and Diglycerides of Fatty Acids",
+    "purpose": "Emulsifier.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E491": {
+    "name": "Sorbitan Monostearate",
+    "purpose": "Emulsifier.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E500": {
+    "name": "Sodium Carbonates",
+    "purpose": "Acidity regulator.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E501": {
+    "name": "Potassium Carbonates",
+    "purpose": "Acidity regulator.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E502": {
+    "name": "Ammonium Carbonates",
+    "purpose": "Acidity regulator.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E503": {
+    "name": "Sodium Bicarbonate",
+    "purpose": "Leavening agent.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E504": {
+    "name": "Magnesium Carbonates",
+    "purpose": "Acidity regulator.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E600": {
+    "name": "Glutamates",
+    "purpose": "Flavor enhancer.",
+    "safety": "Generally recognized as safe, though may cause reactions in sensitive individuals.",
+    "category": "Generally Safe"
+  },
+  "E620": {
+    "name": "Glutamic Acid",
+    "purpose": "Flavor enhancer.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E621": {
+    "name": "Monosodium Glutamate (MSG)",
+    "purpose": "Flavor enhancer.",
+    "safety": "Linked to headaches and allergic reactions in sensitive individuals.",
+    "category": "Potential Risk"
+  },
+  "E622": {
+    "name": "Monopotassium Glutamate",
+    "purpose": "Flavor enhancer.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E631": {
+    "name": "Disodium Inosinate",
+    "purpose": "Flavor enhancer.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E632": {
+    "name": "Disodium Guanylate",
+    "purpose": "Flavor enhancer.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E900": {
+    "name": "Dimethylpolysiloxane",
+    "purpose": "Anti-foaming agent.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E901": {
+    "name": "Beeswax",
+    "purpose": "Glazing agent.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E902": {
+    "name": "Shellac",
+    "purpose": "Glazing agent.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E903": {
+    "name": "Carnauba Wax",
+    "purpose": "Glazing agent.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E904": {
+    "name": "Glyceryl Monostearate",
+    "purpose": "Emulsifier.",
+    "safety": "Considered safe.",
+    "category": "Generally Safe"
+  },
+  "E950": {
+    "name": "Acesulfame K",
+    "purpose": "Artificial sweetener.",
+    "safety": "Considered safe by regulatory authorities, though long-term effects debated.",
+    "category": "Generally Safe"
+  },
+  "E951": {
+    "name": "Aspartame",
+    "purpose": "Artificial sweetener.",
+    "safety": "Linked to headaches and potential cancer risk, though considered safe in small quantities by regulators.",
+    "category": "Potential Risk"
+  },
+  "E952": {
+    "name": "Cyclamate",
+    "purpose": "Artificial sweetener.",
+    "safety": "Banned in the U.S. due to safety concerns.",
+    "category": "Dangerous"
+  },
+  "E953": {
+    "name": "Isomalt",
+    "purpose": "Sugar substitute.",
+    "safety": "Considered safe, though excessive consumption can cause digestive issues.",
+    "category": "Generally Safe"
+  },
+  "E954": {
+    "name": "Saccharin",
+    "purpose": "Artificial sweetener.",
+    "safety": "Linked to bladder cancer in animal studies, but considered safe by regulators.",
+    "category": "Potential Risk"
+  },
+  "E955": {
+    "name": "Sucralose",
+    "purpose": "Artificial sweetener.",
+    "safety": "Considered safe by regulatory authorities.",
+    "category": "Generally Safe"
+  },
+  "E956": {
+    "name": "Alitame",
+    "purpose": "Artificial sweetener.",
+    "safety": "Considered safe, though not widely used.",
+    "category": "Generally Safe"
+  },
+  "E957": {
+    "name": "Neotame",
+    "purpose": "Artificial sweetener.",
+    "safety": "Considered safe by regulatory authorities.",
+    "category": "Generally Safe"
+  },
+  "E965": {
+    "name": "Maltitol",
+    "purpose": "Sugar substitute.",
+    "safety": "Considered safe, though excessive consumption can cause digestive issues.",
+    "category": "Generally Safe"
+  },
+  "E966": {
+    "name": "Lactitol",
+    "purpose": "Sugar substitute.",
+    "safety": "Considered safe, though excessive consumption can cause digestive issues.",
+    "category": "Generally Safe"
+  },
+  "E999": {
+    "name": "Plant Extracts",
+    "purpose": "Flavoring agent.",
+    "safety": "Generally recognized as safe.",
+    "category": "Generally Safe"
+  }
+}

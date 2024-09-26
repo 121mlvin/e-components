@@ -1,0 +1,560 @@
+{
+  "E100": {
+    "name": "Curcumin",
+    "purpose": "Naturalny kolor (żółty)",
+    "safety": "Uważana za bezpieczną. Pochodzi z kurkumy.",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E101": {
+    "name": "Ryboflawina",
+    "purpose": "Naturalny kolor (żółty)",
+    "safety": "Uważana za bezpieczną, niezbędna witamina.",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E102": {
+    "name": "tartrazyna",
+    "purpose": "Syntetyczny barwnik (żółty)",
+    "safety": "Związany z nadpobudliwością i reakcjami alergicznymi u osób wrażliwych.",
+    "category": "Potencjalne ryzyko"
+  },
+  "E110": {
+    "name": "Sunset Yellow FCF",
+    "purpose": "Syntetyczny barwnik (pomarańczowy)",
+    "safety": "Powiązany z nadpobudliwością i alergiami u niektórych osób.",
+    "category": "Potencjalne ryzyko"
+  },
+  "E120": {
+    "name": "koszenila",
+    "purpose": "Naturalny barwnik (czerwony), pozyskiwany z owadów",
+    "safety": "Uważany za bezpieczny, choć możliwe reakcje alergiczne u osób wrażliwych.",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E122": {
+    "name": "Karmoizyna",
+    "purpose": "Syntetyczny barwnik (czerwony)",
+    "safety": "Związany z reakcjami alergicznymi u osób wrażliwych.",
+    "category": "Potencjalne ryzyko"
+  },
+  "E123": {
+    "name": "Amaranth",
+    "purpose": "Syntetyczny barwnik (czerwony)",
+    "safety": "Zakazany w USA ze względu na ryzyko zachorowania na raka. Nadal dozwolony w niewielkich ilościach w UE.",
+    "category": "Niebezpieczny"
+  },
+  "E124": {
+    "name": "Ponceau 4R",
+    "purpose": "Syntetyczny barwnik (czerwony)",
+    "safety": "Związany z nadpobudliwością u dzieci i reakcjami alergicznymi. Zakazany w niektórych krajach, ale dozwolony w UE w ograniczonych ilościach.",
+    "category": "Niebezpieczny"
+  },
+  "E127": {
+    "name": "Erytrozyna",
+    "purpose": "Syntetyczny barwnik (czerwony)",
+    "safety": "Zakazany w niektórych krajach, powiązany z potencjalnymi problemami z tarczycą.",
+    "category": "Niebezpieczny"
+  },
+  "E128": {
+    "name": "Red 2G",
+    "purpose": "Syntetyczny barwnik (czerwony)",
+    "safety": "Zakazany w UE ze względu na potencjalne działanie rakotwórcze",
+    "category": "Niebezpieczny"
+  },
+  "E129": {
+    "name": "Allura Red AC",
+    "purpose": "Syntetyczny barwnik (czerwony)",
+    "safety": "Związany z nadpobudliwością u niektórych dzieci",
+    "category": "Potencjalne ryzyko"
+  },
+  "E130": {
+    "name": "laktoflawina",
+    "purpose": "Naturalny kolor (żółty)",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E131": {
+    "name": "Patent Blue V",
+    "purpose": "Syntetyczny barwnik (niebieski)",
+    "safety": "Uważany za bezpieczny, choć u niektórych może powodować reakcje alergiczne.",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E132": {
+    "name": "Indigo Carmine",
+    "purpose": "Syntetyczny barwnik (niebieski)",
+    "safety": "Uważany za bezpieczny, choć u niektórych może powodować reakcje alergiczne.",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E133": {
+    "name": "Brilliant Blue FCF",
+    "purpose": "Syntetyczny barwnik (niebieski)",
+    "safety": "Uważany za bezpieczny, choć u niektórych może powodować reakcje alergiczne.",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E140": {
+    "name": "chlorofil",
+    "purpose": "Naturalny kolor (zielony)",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E141": {
+    "name": "Kompleksy miedzi z chlorofilami",
+    "purpose": "Naturalny kolor (zielony)",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E150": {
+    "name": "Caramel Color",
+    "purpose": "Barwnik",
+    "safety": "Ogólnie uznany za bezpieczny, choć pewne obawy dotyczą 4-MEI.",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E151": {
+    "name": "Black PN",
+    "purpose": "Barwnik syntetyczny (czarny)",
+    "safety": "Zakazany w niektórych krajach ze względu na obawy dotyczące bezpieczeństwa.",
+    "category": "Niebezpieczny"
+  },
+  "E160": {
+    "name": "Karotenoidy",
+    "purpose": "Naturalny kolor (różne kolory)",
+    "safety": "Ogólnie uważane za bezpieczne.",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E161": {
+    "name": "Luteina",
+    "purpose": "Naturalny kolor (żółty)",
+    "safety": "Uważana za bezpieczną",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E162": {
+    "name": "Beetroot Red",
+    "purpose": "Naturalny kolor (czerwony)",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E170": {
+    "name": "Węglan wapnia",
+    "purpose": "Barwnik, regulator kwasowości",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E171": {
+    "name": "Titanium Dioxide",
+    "purpose": "Barwnik",
+    "safety": "Uważany za bezpieczny, choć istnieją obawy dotyczące wdychania w postaci proszku.",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E172": {
+    "name": "Tlenki i wodorotlenki żelaza",
+    "purpose": "Barwniki",
+    "safety": "Uważany za bezpieczny.",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E173": {
+    "name": "Aluminium",
+    "purpose": "Barwnik",
+    "safety": "Uważany za bezpieczny w małych ilościach, ale obawy dotyczące długotrwałego narażenia.",
+    "category": "Potencjalne ryzyko"
+  },
+  "E200": {
+    "name": "Sorbic Acid",
+    "purpose": "konserwant",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+   "E202": {
+    "name": "Potassium Sorbate",
+    "purpose": "konserwant",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E210": {
+    "name": "kwas benzoesowy",
+    "purpose": "konserwant",
+    "safety": "Uważany za bezpieczny, choć może powodować reakcje alergiczne u osób wrażliwych.",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E211": {
+    "name": "Benzoesan sodu",
+    "purpose": "konserwant",
+    "safety": "Potencjalnie tworzy benzen, czynnik rakotwórczy, w połączeniu z witaminą C. Bezpieczny w ograniczonych ilościach",
+    "category": "Potencjalne ryzyko"
+  },
+  "E212": {
+    "name": "benzoesan potasu",
+    "purpose": "konserwant",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E213": {
+    "name": "Calcium Benzoate",
+    "purpose": "konserwant",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E220": {
+    "name": "Sulfur Dioxide",
+    "purpose": "konserwant",
+    "safety": "Może powodować reakcje alergiczne i problemy z oddychaniem u osób wrażliwych",
+    "category": "Potencjalne ryzyko"
+  },
+  "E221": {
+    "name": "siarczyn sodu",
+    "purpose": "konserwant",
+    "safety": "Może powodować reakcje alergiczne u osób wrażliwych",
+    "category": "Potencjalne ryzyko"
+  },
+  "E250": {
+    "name": "azotyn sodu",
+    "purpose": "Środek konserwujący, utrwalacz koloru w mięsach",
+    "safety": "Powiązany z rakiem w przypadku spożycia w dużych ilościach.",
+    "category": "Niebezpieczny"
+  },
+  "E251": {
+    "name": "azotan sodu",
+    "purpose": "Środek konserwujący",
+    "safety": "Uważany za bezpieczny w ograniczonych ilościach, choć istnieją obawy dotyczące potencjalnego działania rakotwórczego",
+    "category": "Potencjalne ryzyko"
+  },
+  "E300": {
+    "name": "kwas askorbinowy (witamina C)",
+    "purpose": "Przeciwutleniacz",
+    "safety": "Uważany za bardzo bezpieczny i niezbędny dla zdrowia",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E301": {
+    "name": "askorbinian sodu",
+    "purpose": "Przeciwutleniacz",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E302": {
+    "name": "Calcium Ascorbate",
+    "purpose": "Przeciwutleniacz",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E306": {
+    "name": "Tokoferole (Witamina E)",
+    "purpose": "Przeciwutleniacz",
+    "safety": "Uważany za bezpieczny.",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E307": {
+    "name": "Alpha-Tocopherol",
+    "purpose": "Przeciwutleniacz",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E320": {
+    "name": "Butylowany hydroksyanizol (BHA)",
+    "purpose": "Przeciwutleniacz, konserwant",
+    "safety": "Niektóre badania sugerują potencjalne ryzyko zachorowania na raka przy bardzo wysokim poziomie spożycia, choć ogólnie uważany za bezpieczny w małych ilościach.",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E321": {
+    "name": "Butylowany hydroksytoluen (BHT)",
+    "purpose": "Przeciwutleniacz",
+    "safety": "Niektóre badania sugerują potencjalne ryzyko raka, choć ogólnie uważany za bezpieczny w małych ilościach.",
+    "category": "Potencjalne ryzyko"
+  },
+  "E330": {
+    "name": "Citric Acid",
+    "purpose": "regulator kwasowości",
+    "safety": "Bezpieczny w normalnych ilościach, ale może powodować problemy trawienne u osób wrażliwych",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E331": {
+    "name": "Sodium Citrate",
+    "purpose": "Regulator kwasowości",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E332": {
+    "name": "Potassium Citrate",
+    "purpose": "Regulator kwasowości",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E333": {
+    "name": "Calcium Citrate",
+    "purpose": "Regulator kwasowości",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E338": {
+    "name": "Phosphoric Acid",
+    "purpose": "regulator kwasowości",
+    "safety": "Ogólnie uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E339": {
+    "name": "fosforany sodu",
+    "purpose": "Regulator kwasowości",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E340": {
+    "name": "fosforany potasu",
+    "purpose": "Regulator kwasowości",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E341": {
+    "name": "fosforany wapnia",
+    "purpose": "Regulator kwasowości",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E420": {
+    "name": "Sorbitol",
+    "purpose": "substancja słodząca, substancja utrzymująca wilgoć",
+    "safety": "Uważany za bezpieczny, choć nadmierne spożycie może powodować problemy trawienne",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E421": {
+    "name": "Mannitol",
+    "purpose": "substancja słodząca, substancja utrzymująca wilgoć",
+    "safety": "Uważany za bezpieczny, choć nadmierne spożycie może powodować problemy trawienne",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E422": {
+    "name": "Glycerol",
+    "purpose": "substancja utrzymująca wilgoć, substancja słodząca",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+    "E431": {
+    "name": "Sodium Stearoyl Lactylate",
+    "purpose": "Emulgator",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E440": {
+    "name": "pektyna",
+    "purpose": "Zagęszczacz, substancja żelująca",
+    "safety": "Uważany za bezpieczny.",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E471": {
+    "name": "Mono- i Diglicerydy Kwasów Tłuszczowych",
+    "purpose": "Emulgator",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E472": {
+    "name": "Estry kwasów tłuszczowych",
+    "purpose": "Emulgator",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E473": {
+    "name": "Estry sacharozy i kwasów tłuszczowych",
+    "purpose": "Emulgator",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E474": {
+    "name": "Sorbitan Esters",
+    "purpose": "Emulgator",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E475": {
+    "name": "Estry Poliglicerolu",
+    "purpose": "Emulgator",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E476": {
+    "name": "Polirycynooleinian poliglicerolu",
+    "purpose": "Emulgator",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E477": {
+    "name": "Estry glikolu propylenowego",
+    "purpose": "Emulgator",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E481": {
+    "name": "Sodium Stearoyl Lactylate",
+    "purpose": "Emulgator",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E482": {
+    "name": "Mono- i Diglicerydy Kwasów Tłuszczowych",
+    "purpose": "Emulgator",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E491": {
+    "name": "monostearynian sorbitanu",
+    "purpose": "Emulgator",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E500": {
+    "name": "Węglany sodu",
+    "purpose": "Regulator kwasowości",
+    "safety": "Uznany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E501": {
+    "name": "węglany potasu",
+    "purpose": "Regulator kwasowości",
+    "safety": "Uznany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E502": {
+    "name": "Węglany amonu",
+    "purpose": "Regulator kwasowości",
+    "safety": "Uznany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E503": {
+    "name": "wodorowęglan sodu",
+    "purpose": "Środek spulchniający",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E504": {
+    "name": "węglany magnezu",
+    "purpose": "Regulator kwasowości",
+    "safety": "Uznany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E600": {
+    "name": "Glutaminiany",
+    "purpose": "Wzmacniacz smaku",
+    "safety": "Ogólnie uznany za bezpieczny, choć może powodować reakcje u osób wrażliwych.",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E620": {
+    "name": "Glutamic Acid",
+    "purpose": "Wzmacniacz smaku",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E621": {
+    "name": "Glutaminian sodu (MSG)",
+    "purpose": "Wzmacniacz smaku",
+    "safety": "Powiązany z bólami głowy i reakcjami alergicznymi u osób wrażliwych",
+    "category": "Potencjalne ryzyko"
+  },
+  "E622": {
+    "name": "Glutaminian monopotasowy",
+    "purpose": "Wzmacniacz smaku",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E631": {
+    "name": "Disodium Inosinate",
+    "purpose": "Wzmacniacz smaku",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E632": {
+    "name": "Disodium Guanylate",
+    "purpose": "Wzmacniacz smaku",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E900": {
+    "name": "Dimetylopolisiloksan",
+    "purpose": "Środek przeciwpieniący",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E901": {
+    "name": "Beeswax",
+    "purpose": "Środek glazurujący",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E902": {
+    "name": "Shellac",
+    "purpose": "Środek glazurujący",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E903": {
+    "name": "Carnauba Wax",
+    "purpose": "Środek glazurujący",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E904": {
+    "name": "Glyceryl Monostearate",
+    "purpose": "Emulgator",
+    "safety": "Uważany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E950": {
+    "name": "Acesulfam K",
+    "purpose": "Sztuczny słodzik",
+    "safety": "Uznany za bezpieczny przez organy regulacyjne, choć długoterminowe skutki są przedmiotem dyskusji.",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E951": {
+    "name": "Aspartam",
+    "purpose": "Sztuczny słodzik",
+    "safety": "Powiązany z bólami głowy i potencjalnym ryzykiem raka, choć uważany za bezpieczny w małych ilościach przez organy regulacyjne.",
+    "category": "Potencjalne ryzyko"
+  },
+  "E952": {
+    "name": "Cyclamate",
+    "purpose": "Sztuczny słodzik",
+    "safety": "Zakazany w USA ze względu na obawy dotyczące bezpieczeństwa.",
+    "category": "Niebezpieczne"
+  },
+  "E953": {
+    "name": "Isomalt",
+    "purpose": "Substytut cukru",
+    "safety": "Uważany za bezpieczny, choć nadmierne spożycie może powodować problemy trawienne",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E954": {
+    "name": "Saccharin",
+    "purpose": "Sztuczny słodzik",
+    "safety": "Powiązany z rakiem pęcherza moczowego w badaniach na zwierzętach, ale uznany za bezpieczny przez organy regulacyjne.",
+    "category": "Potencjalne ryzyko"
+  },
+  "E955": {
+    "name": "sukraloza",
+    "purpose": "Sztuczny słodzik",
+    "safety": "Uznany za bezpieczny przez organy regulacyjne.",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E956": {
+    "name": "Alitame",
+    "purpose": "Sztuczny słodzik",
+    "safety": "Uważany za bezpieczny, choć nie jest powszechnie stosowany",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E957": {
+    "name": "Neotame",
+    "purpose": "Sztuczny słodzik",
+    "safety": "Uznany za bezpieczny przez organy regulacyjne.",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E965": {
+    "name": "maltitol",
+    "purpose": "substytut cukru",
+    "safety": "Uważany za bezpieczny, choć nadmierne spożycie może powodować problemy trawienne",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E966": {
+    "name": "Lactitol",
+    "purpose": "Substytut cukru",
+    "safety": "Uważany za bezpieczny, choć nadmierne spożycie może powodować problemy trawienne",
+    "category": "Ogólnie bezpieczny"
+  },
+  "E999": {
+    "name": "Ekstrakty roślinne",
+    "purpose": "Środek aromatyzujący",
+    "safety": "Ogólnie uznany za bezpieczny",
+    "category": "Ogólnie bezpieczny"
+  }
+}

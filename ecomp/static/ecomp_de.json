@@ -1,0 +1,560 @@
+{
+  "E100": {
+    "name": "Curcumin",
+    "purpose": "Natürliche Farbe (gelb)",
+    "safety": "Gilt als sicher. Abgeleitet aus Kurkuma.",
+    "category": "Generell sicher"
+  },
+  "E101": {
+    "name": "Riboflavin",
+    "purpose": "Natürliche Farbe (gelb)",
+    "safety": "Gilt als sicher, essentielles Vitamin.",
+    "category": "Generell sicher"
+  },
+  "E102": {
+    "name": "Tartrazin",
+    "purpose": "Synthetischer Farbstoff (gelb)",
+    "safety": "Kann bei empfindlichen Personen zu Hyperaktivität und allergischen Reaktionen führen",
+    "category": "Potenzielles Risiko"
+  },
+  "E110": {
+    "name": "Sunset Yellow FCF",
+    "purpose": "Synthetischer Farbstoff (orange)",
+    "safety": "Kann bei einigen Personen zu Hyperaktivität und Allergien führen.",
+    "category": "Potenzielles Risiko"
+  },
+  "E120": {
+    "name": "Cochenille",
+    "purpose": "Natürlicher Farbstoff (rot), aus Insekten gewonnen.",
+    "safety": "Gilt als sicher, obwohl allergische Reaktionen bei empfindlichen Personen möglich sind.",
+    "category": "Generally Safe"
+  },
+  "E122": {
+    "name": "Carmoisine",
+    "purpose": "Synthetischer Farbstoff (rot)",
+    "safety": "Kann bei empfindlichen Personen zu allergischen Reaktionen führen.",
+    "category": "Potenzielles Risiko"
+  },
+  "E123": {
+    "name": "Amaranth",
+    "purpose": "Synthetischer Farbstoff (rot)",
+    "safety": "In den USA aufgrund von Bedenken hinsichtlich des Krebsrisikos verboten. In geringen Mengen in der EU noch erlaubt.",
+    "category": "Gefährlich"
+  },
+  "E124": {
+    "name": "Ponceau 4R",
+    "purpose": "Synthetischer Farbstoff (rot)",
+    "safety": "Wird mit Hyperaktivität bei Kindern und allergischen Reaktionen in Verbindung gebracht. In einigen Ländern verboten, aber in der EU in begrenzten Mengen zugelassen.",
+    "category": "Gefährlich"
+  },
+  "E127": {
+    "name": "Erythrosin",
+    "purpose": "Synthetischer Farbstoff (rot)",
+    "safety": "In einigen Ländern verboten, wird mit möglichen Schilddrüsenproblemen in Verbindung gebracht.",
+    "category": "Gefährlich"
+  },
+  "E128": {
+    "name": "Rot 2G",
+    "purpose": "Synthetischer Farbstoff (rot)",
+    "safety": "In der EU wegen möglicher krebserregender Wirkung verboten.",
+    "category": "Gefährlich"
+  },
+  "E129": {
+    "name": "Allura Red AC",
+    "purpose": "Synthetischer Farbstoff (rot)",
+    "safety": "Wird bei einigen Kindern mit Hyperaktivität in Verbindung gebracht.",
+    "category": "Potenzielles Risiko"
+  },
+  "E130": {
+    "name": "Lactoflavin",
+    "purpose": "Natürlicher Farbstoff (gelb)",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E131": {
+    "name": "Patent Blue V",
+    "purpose": "Synthetischer Farbstoff (blau)",
+    "safety": "Gilt als unbedenklich, kann aber bei manchen Menschen allergische Reaktionen hervorrufen.",
+    "category": "Generell sicher"
+  },
+  "E132": {
+    "name": "Indigo Karmin",
+    "purpose": "Synthetischer Farbstoff (blau)",
+    "safety": "Gilt als unbedenklich, kann aber bei manchen Menschen allergische Reaktionen hervorrufen.",
+    "category": "Generell sicher"
+  },
+  "E133": {
+    "name": "Brillantblau FCF",
+    "purpose": "Synthetischer Farbstoff (blau)",
+    "safety": "Gilt als unbedenklich, kann aber bei manchen Menschen allergische Reaktionen hervorrufen.",
+    "category": "Generell sicher"
+  },
+  "E140": {
+    "name": "Chlorophyll",
+    "purpose": "Natürliche Farbe (grün)",
+    "safety": "Gilt als sicher.",
+    "category": "Generell sicher"
+  },
+  "E141": {
+    "name": "Kupferkomplexe von Chlorophyllen",
+    "purpose": "Natürliche Farbe (grün)",
+    "safety": "Gilt als sicher.",
+    "category": "Generell sicher"
+  },
+  "E150": {
+    "name": "Karamellfarbe",
+    "purpose": "Färbemittel",
+    "safety": "Allgemein als sicher anerkannt, jedoch einige Bedenken wegen 4-MEI",
+    "category": "Generell sicher"
+  },
+  "E151": {
+    "name": "Schwarzer PN",
+    "purpose": "Synthetischer Farbstoff (schwarz)",
+    "safety": "In einigen Ländern aufgrund von safetysbedenken verboten.",
+    "category": "Gefährlich"
+  },
+  "E160": {
+    "name": "Carotinoide",
+    "purpose": "Natürliche Farbe (verschiedene Farben)",
+    "safety": "Gilt allgemein als unbedenklich.",
+    "category": "Generally Safe"
+  },
+  "E161": {
+    "name": "Lutein",
+    "purpose": "Natürliche Farbe (gelb)",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E162": {
+    "name": "Rote Beete",
+    "purpose": "Natürliche Farbe (rot)",
+    "safety": "Gilt als sicher.",
+    "category": "Generell sicher"
+  },
+  "E170": {
+    "name": "Calciumcarbonat",
+    "purpose": "Färbemittel, Säureregulator",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E171": {
+    "name": "Titanium Dioxide",
+    "purpose": "Färbemittel",
+    "safety": "Gilt als sicher, obwohl Bedenken hinsichtlich der Inhalation als Pulver bestehen.",
+    "category": "Generell sicher"
+  },
+  "E172": {
+    "name": "Eisenoxide und -hydroxide",
+    "purpose": "Färbemittel",
+    "safety": "Gilt als sicher.",
+    "category": "Generell sicher"
+  },
+  "E173": {
+    "name": "Aluminium",
+    "purpose": "Färbemittel",
+    "safety": "Gilt in kleinen Mengen als sicher, aber Bedenken bei langfristiger Exposition.",
+    "category": "Potenzielles Risiko"
+  },
+  "E200": {
+    "name": "Sorbinsäure",
+    "purpose": "Konservierungsmittel",
+    "safety": "Gilt als sicher.",
+    "category": "Generell sicher"
+  },
+    "E202": {
+    "name": "Kaliumsorbat",
+    "purpose": "Konservierungsmittel",
+    "safety": "Gilt als sicher.",
+    "category": "Generell sicher"
+  },
+  "E210": {
+    "name": "Benzoesäure",
+    "purpose": "Konservierungsmittel",
+    "safety": "Gilt als sicher, kann aber bei empfindlichen Personen allergische Reaktionen hervorrufen.",
+    "category": "Generally Safe"
+  },
+  "E211": {
+    "name": "Natriumbenzoat",
+    "purpose": "Konservierungsmittel",
+    "safety": "Kann in Verbindung mit Vitamin C Benzol, ein Karzinogen, bilden. In begrenzten Mengen sicher.",
+    "category": "Potenzielles Risiko"
+  },
+  "E212": {
+    "name": "Kaliumbenzoat",
+    "purpose": "Konservierungsmittel",
+    "safety": "Gilt als sicher.",
+    "category": "Generell sicher"
+  },
+  "E213": {
+    "name": "Calcium Benzoat",
+    "purpose": "Konservierungsmittel",
+    "safety": "Gilt als sicher.",
+    "category": "Generell sicher"
+  },
+  "E220": {
+    "name": "Schwefeldioxyd",
+    "purpose": "Konservierungsmittel",
+    "safety": "Kann bei empfindlichen Personen allergische Reaktionen und Atembeschwerden hervorrufen.",
+    "category": "Potenzielles Risiko"
+  },
+  "E221": {
+    "name": "Natriumsulfit",
+    "purpose": "Konservierungsmittel",
+    "safety": "Kann bei empfindlichen Personen allergische Reaktionen hervorrufen.",
+    "category": "Potenzielles Risiko"
+  },
+  "E250": {
+    "name": "Natriumnitrit",
+    "purpose": "Konservierungsmittel, Farbfixiermittel in Fleisch",
+    "safety": "In Verbindung mit Krebs, wenn in großen Mengen konsumiert.",
+    "category": "Gefährlich"
+  },
+  "E251": {
+    "name": "Natriumnitrat",
+    "purpose": "Konservierungsmittel",
+    "safety": "Gilt in begrenzten Mengen als sicher, obwohl Bedenken wegen möglicher krebserregender Wirkungen bestehen.",
+    "category": "Potenzielles Risiko"
+  },
+  "E300": {
+    "name": "Ascorbinsäure (Vitamin C)",
+    "purpose": "Antioxidans",
+    "safety": "Gilt als sehr sicher und essentiell für die Gesundheit.",
+    "category": "Generell sicher"
+  },
+  "E301": {
+    "name": "Natriumascorbat",
+    "purpose": "Antioxidationsmittel",
+    "safety": "Gilt als sicher.",
+    "category": "Generell sicher"
+  },
+  "E302": {
+    "name": "Calciumascorbat",
+    "purpose": "Antioxidationsmittel",
+    "safety": "Gilt als sicher.",
+    "category": "Generell sicher"
+  },
+  "E306": {
+    "name": "Tocopherole (Vitamin E)",
+    "purpose": "Antioxidans",
+    "safety": "Gilt als sicher.",
+    "category": "Generell sicher"
+  },
+  "E307": {
+    "name": "Alpha-Tocopherol",
+    "purpose": "Antioxidationsmittel",
+    "safety": "Gilt als sicher.",
+    "category": "Generell sicher"
+  },
+  "E320": {
+    "name": "Butyliertes Hydroxyanisol (BHA)",
+    "purpose": "Antioxidationsmittel, Konservierungsmittel",
+    "safety": "Einige Studien deuten auf ein potenzielles Krebsrisiko bei sehr hohem Konsum hin, obwohl es im Allgemeinen in kleinen Mengen als sicher gilt.",
+    "category": "Generell sicher"
+  },
+  "E321": {
+    "name": "Butyliertes Hydroxytoluol (BHT)",
+    "purpose": "Antioxidationsmittel",
+    "safety": "Einige Studien deuten auf ein potenzielles Krebsrisiko hin, obwohl es im Allgemeinen in kleinen Mengen als sicher gilt.",
+    "category": "Potenzielles Risiko"
+  },
+  "E330": {
+    "name": "Zitronensäure",
+    "purpose": "Säureregulator",
+    "safety": "In normalen Mengen unbedenklich, kann aber bei empfindlichen Personen Verdauungsprobleme verursachen.",
+    "category": "Generell sicher"
+  },
+  "E331": {
+    "name": "Natriumcitrat",
+    "purpose": "Säureregulator",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E332": {
+    "name": "Kaliumcitrat",
+    "purpose": "Säureregulator",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E333": {
+    "name": "Calciumcitrat",
+    "purpose": "Säureregulator",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E338": {
+    "name": "Phosphoric Acid",
+    "purpose": "Säureregulator",
+    "safety": "Gilt allgemein als sicher",
+    "category": "Generally Safe"
+  },
+  "E339": {
+    "name": "Natriumphosphate",
+    "purpose": "Säureregulator",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E340": {
+    "name": "Kaliumphosphate",
+    "purpose": "Säureregulator",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E341": {
+    "name": "Kalziumphosphate",
+    "purpose": "Säureregulator",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E420": {
+    "name": "Sorbitol",
+    "purpose": "Süßungsmittel, Feuchthaltemittel",
+    "safety": "Gilt als sicher, kann aber bei übermäßigem Verzehr Verdauungsprobleme verursachen.",
+    "category": "Generell sicher"
+  },
+  "E421": {
+    "name": "Mannitol",
+    "purpose": "Süßungsmittel, Feuchthaltemittel",
+    "safety": "Gilt als sicher, kann aber bei übermäßigem Verzehr Verdauungsprobleme verursachen.",
+    "category": "Generell sicher"
+  },
+  "E422": {
+    "name": "Glycerin",
+    "purpose": "Feuchthaltemittel, Süßungsmittel",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E431": {
+    "name": "Natriumstearoyllactylat",
+    "purpose": "Emulgator",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E440": {
+    "name": "Pektin",
+    "purpose": "Verdickungsmittel, Geliermittel",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E471": {
+    "name": "Mono- und Diglyceride von Fettsäuren",
+    "purpose": "Emulgator",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E472": {
+    "name": "Ester von Fettsäuren",
+    "purpose": "Emulgator",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E473": {
+    "name": "Saccharose-Ester von Fettsäuren",
+    "purpose": "Emulgator",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E474": {
+    "name": "Sorbitan-Ester",
+    "purpose": "Emulgator",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E475": {
+    "name": "Polyglycerin-Ester",
+    "purpose": "Emulgator",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E476": {
+    "name": "Polyglycerol Polyricinoleate",
+    "purpose": "Emulgator",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E477": {
+    "name": "Propylenglykol-Ester",
+    "purpose": "Emulgator",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E481": {
+    "name": "Natriumstearoyllactylat",
+    "purpose": "Emulgator",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E482": {
+    "name": "Mono- und Diglyceride von Fettsäuren",
+    "purpose": "Emulgator",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E491": {
+    "name": "Sorbitanmonostearat",
+    "purpose": "Emulgator",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E500": {
+    "name": "Natriumcarbonate",
+    "purpose": "Säureregulator",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E501": {
+    "name": "Kaliumkarbonate",
+    "purpose": "Säureregulator",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E502": {
+    "name": "Ammoniumcarbonate",
+    "purpose": "Säureregulator",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E503": {
+    "name": "Natriumbicarbonat",
+    "purpose": "Backtriebmittel",
+    "safety": "Gilt als sicher.",
+    "category": "Generell sicher"
+  },
+  "E504": {
+    "name": "Magnesiumcarbonate",
+    "purpose": "Säureregulator",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E600": {
+    "name": "Glutamate",
+    "purpose": "Geschmacksverstärker",
+    "safety": "Allgemein als sicher anerkannt, kann jedoch bei empfindlichen Personen Reaktionen hervorrufen.",
+    "category": "Generell sicher"
+  },
+  "E620": {
+    "name": "Glutaminsäure",
+    "purpose": "Geschmacksverstärker",
+    "safety": "Gilt als sicher.",
+    "category": "Generell sicher"
+  },
+  "E621": {
+    "name": "Mononatriumglutamat (MSG)",
+    "purpose": "Geschmacksverstärker",
+    "safety": "Kann bei empfindlichen Personen zu Kopfschmerzen und allergischen Reaktionen führen",
+    "category": "Potenzielles Risiko"
+  },
+  "E622": {
+    "name": "Monokaliumglutamat",
+    "purpose": "Geschmacksverstärker",
+    "safety": "Gilt als sicher.",
+    "category": "Generell sicher"
+  },
+  "E631": {
+    "name": "Dinatriuminosinat",
+    "purpose": "Geschmacksverstärker",
+    "safety": "Gilt als sicher.",
+    "category": "Generell sicher"
+  },
+  "E632": {
+    "name": "Dinatriumguanylat",
+    "purpose": "Geschmacksverstärker",
+    "safety": "Gilt als sicher.",
+    "category": "Generell sicher"
+  },
+  "E900": {
+    "name": "Dimethylpolysiloxan",
+    "purpose": "Antischaummittel",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E901": {
+    "name": "Bienenwachs",
+    "purpose": "Verglasungsmittel",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E902": {
+    "name": "Schellack",
+    "purpose": "Verglasungsmittel",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E903": {
+    "name": "Carnauba-Wachs",
+    "purpose": "Verglasungsmittel",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E904": {
+    "name": "Glycerylmonostearat",
+    "purpose": "Emulgator",
+    "safety": "Gilt als sicher.",
+    "category": "Generally Safe"
+  },
+  "E950": {
+    "name": "Acesulfam K",
+    "purpose": "Künstlicher Süßstoff",
+    "safety": "Wird von den Regulierungsbehörden als sicher eingestuft, obwohl Langzeitwirkungen umstritten sind.",
+    "category": "Generally Safe"
+  },
+  "E951": {
+    "name": "Aspartam",
+    "purpose": "Künstlicher Süßstoff",
+    "safety": "Wird mit Kopfschmerzen und potenziellem Krebsrisiko in Verbindung gebracht, obwohl es von den Aufsichtsbehörden in kleinen Mengen als sicher angesehen wird.",
+    "category": "Potenzielles Risiko"
+  },
+   "E952": {
+    "name": "Cyclamat",
+    "purpose": "Künstlicher Süßstoff",
+    "safety": "In den USA aufgrund von safetysbedenken verboten.",
+    "category": "Gefährlich"
+  },
+  "E953": {
+    "name": "Isomalt",
+    "purpose": "Zuckeraustauschstoff",
+    "safety": "Gilt als sicher, kann aber bei übermäßigem Verzehr zu Verdauungsproblemen führen.",
+    "category": "Generell sicher"
+  },
+  "E954": {
+    "name": "Saccharin",
+    "purpose": "Künstlicher Süßstoff",
+    "safety": "Wurde in Tierversuchen mit Blasenkrebs in Verbindung gebracht, wird aber von den Aufsichtsbehörden als sicher angesehen.",
+    "category": "Potenzielles Risiko"
+  },
+  "E955": {
+    "name": "Sucralose",
+    "purpose": "Künstlicher Süßstoff",
+    "safety": "Wird von den Aufsichtsbehörden als sicher angesehen",
+    "category": "Generally Safe"
+  },
+  "E956": {
+    "name": "Alitame",
+    "purpose": "Künstlicher Süßstoff",
+    "safety": "Gilt als sicher, wird aber nicht häufig verwendet.",
+    "category": "Generally Safe"
+  },
+  "E957": {
+    "name": "Neotame",
+    "purpose": "Künstlicher Süßstoff",
+    "safety": "Von den Aufsichtsbehörden als sicher eingestuft",
+    "category": "Generally Safe"
+  },
+  "E965": {
+    "name": "Maltitol",
+    "purpose": "Zuckeraustauschstoff",
+    "safety": "Gilt als sicher, obwohl übermäßiger Konsum zu Verdauungsproblemen führen kann.",
+    "category": "Generell sicher"
+  },
+  "E966": {
+    "name": "Lactitol",
+    "purpose": "Zuckeraustauschstoff",
+    "safety": "Gilt als sicher, kann aber bei übermäßigem Verzehr Verdauungsprobleme verursachen.",
+    "category": "Generell sicher"
+  },
+  "E999": {
+    "name": "Pflanzenextrakte",
+    "purpose": "Aromastoff",
+    "safety": "Generell als sicher anerkannt",
+    "category": "Generally Safe"
+  }
+}

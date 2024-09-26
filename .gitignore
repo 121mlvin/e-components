@@ -13,9 +13,7 @@ db.sqlite3
 /media/
 *.pot
 *.log
-/static/
 staticfiles/
-static/
 **/migrations/__init__.py
 **/migrations/*.pyc
 *.egg-info/
